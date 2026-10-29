@@ -2,7 +2,7 @@
 
 A full-stack parking management web app built as a **Database Systems (DBMS)** course project. Customers register their vehicles and get an automatically assigned parking slot. On exit, the fee is calculated and recorded. Admins can see revenue, parked vehicles and generated reports.
 
-> Looking for the Java/JavaFX desktop version of this idea? See the companion OOP project: **space-saver-parking-java**.
+> Looking for the Java/JavaFX desktop version of this idea? See the companion OOP project: **space-saver-parking-app**.
 
 #Developed by:
 - Waleed Ahmed (01-131232-093)
