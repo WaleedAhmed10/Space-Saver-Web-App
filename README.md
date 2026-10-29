@@ -4,7 +4,7 @@ A full-stack parking management web app built as a **Database Systems (DBMS)** c
 
 > Looking for the Java/JavaFX desktop version of this idea? See the companion OOP project: **space-saver-parking-app**.
 
-#Developed by:
+## Developed by:
 - Waleed Ahmed (01-131232-093)
 - Amir Ali (01-131232-011)
 
